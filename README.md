@@ -8,10 +8,10 @@ Frameworks/libraries used:
   -Pytorch
     to make the complete GAN model (generator and discrimminator), define reconstruction loss function, train using pixelwise and adversarial loss.
   -OpenCV
-    To deal with all the images, apply masks to images an dowmloaded dataset
+    To deal with all the images, apply masks to images an downloaded dataset
   -Matplotlib and Seaborn
     To plot the graphs of generator and discriminator loss functions wrt number of iterations passes
   -Numpy
-    To perform mathematical operations on the image array like, cerating masks, multiplying masks with predictions etc
+    To perform mathematical operations on the image array like, creating masks, multiplying masks with predictions etc
    
 Detailed explanation for the same can be found in Project_abstract file
